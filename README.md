@@ -19,3 +19,10 @@ I am a fourth-year student at the University of Virginia, majoring in Cognitive 
 
 ### Education 
 - **University of Virginia** - Major: Cognitive Science with Concentration in Computer Science, Minor: Data Science (Aug 2021 - May 2025)
+
+### Skills 
+- **Programming & Data Analysis**: Python, R
+- **Business & Data Tools**: Microsoft PowerBI, Salesforce, Wiki.js, Microsoft Office, Google Workspace
+
+
+
