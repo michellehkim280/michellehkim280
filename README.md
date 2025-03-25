@@ -4,8 +4,9 @@
 
 📍 **Charlottesville, VA**  
 📧 **Email:** [michellehkim28@gmail.com](mailto:michellehkim28@gmail.com)  
-🔗 **LinkedIn:** [michellekim](https://www.linkedin.com/in/michelle-kim-mk2025/)
-👨‍💻 **GitHub:** michellehkim280
+🔗 **LinkedIn:** [michellekim](https://www.linkedin.com/in/michelle-kim-mk2025/)  
+👨‍💻 **GitHub:** [michellehkim280](https://github.com/michellehkim280)
+
 
 
 ### About Me 
