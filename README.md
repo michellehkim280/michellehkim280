@@ -23,8 +23,8 @@ I am a recent graduate of the University of Virginia, where I majored in Cogniti
 - **University of Virginia** - Major: Cognitive Science with Concentration in Computer Science, Minor: Data Science (Aug 2021 - May 2025)
 
 ### Skills 
-- **Programming & Data Analysis**: Python, R
-- **Business & Data Tools**: Microsoft PowerBI, Salesforce, Wiki.js, Microsoft Office, Google Workspace
+- **Programming & Data Analysis**: Python, R, SQL, Data Cleaning, Data Visualizatoin 
+- **Business & Data Tools**: PowerBI, Salesforce, Jira, Confluence Wiki.js, Microsoft Office, Google Workspace
 
 
 
